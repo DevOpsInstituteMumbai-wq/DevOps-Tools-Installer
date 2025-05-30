@@ -55,7 +55,7 @@ export default function ContributePage() {
             <h3 className="text-lg font-semibold text-foreground mb-2">1. Fork and Clone</h3>
             <p>Start by forking the repository and cloning it locally:</p>
             <pre className="bg-muted p-4 rounded-md mt-2 overflow-x-auto">
-              <code>git clone https://github.com/NotHarshhaa/DevOps-Tool-Installer.git</code>
+              <code>git clone https://github.com/DevOpsInstituteMumbai-wq/DevOps-Tools-Installer.git</code>
             </pre>
           </div>
 
@@ -95,7 +95,7 @@ export default function ContributePage() {
       <div className="text-center">
         <h2 className="text-2xl font-semibold mb-6">Ready to Contribute?</h2>
         <a
-          href="https://github.com/NotHarshhaa/DevOps-Tool-Installer"
+          href="https://github.com/DevOpsInstituteMumbai-wq/DevOps-Tools-Installer"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center px-6 py-3 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-colors"
