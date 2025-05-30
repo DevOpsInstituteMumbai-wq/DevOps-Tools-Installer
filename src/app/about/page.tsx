@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { FaGithub, FaLinkedin, FaTelegram } from 'react-icons/fa'
+import { FaGithub, FaLinkedin, FaGlobe } from 'react-icons/fa'
 
 export default function AboutPage() {
   return (
@@ -37,12 +37,12 @@ export default function AboutPage() {
                 <span>LinkedIn</span>
               </Link>
               <Link 
-                href="https://t.me/NotHarshhaa" 
+                href="https://devopsinstitutemumbai.co.in/" 
                 target="_blank"
                 className="inline-flex items-center justify-center gap-2 px-6 py-2.5 rounded-lg border border-border/40 hover:bg-card/50 transition-colors w-full sm:w-auto"
               >
-                <FaTelegram className="w-5 h-5" />
-                <span>Telegram</span>
+                <FaGlobe className="w-5 h-5" />
+                <span>Website</span>
               </Link>
             </div>
           </div>
