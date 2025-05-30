@@ -53,7 +53,7 @@ export default function Footer() {
             <h3 className="text-lg font-semibold">Connect With Us</h3>
             <div className="flex space-x-4">
               <Link
-                href="https://github.com/NotHarshhaa"
+                href="https://github.com/DevOpsInstituteMumbai-wq/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-foreground transition-colors"
@@ -69,7 +69,7 @@ export default function Footer() {
                 <FaTelegram className="w-6 h-6" />
               </Link>
               <Link
-                href="https://linkedin.com/in/harshhaa-vardhan-reddy"
+                href="https://www.linkedin.com/company/devopsinstitutemumbai/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-foreground transition-colors"
