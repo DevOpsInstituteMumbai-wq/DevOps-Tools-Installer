@@ -17,7 +17,7 @@ export default function AboutPage() {
           </h1>
           <div className="max-w-3xl mx-auto space-y-6">
             <p className="text-xl md:text-2xl text-muted-foreground leading-relaxed">
-              Hey there! 👋 I'm Harshhaa Vardhan Reddy, a passionate DevOps Engineer on a mission to automate everything and scale cloud infrastructures efficiently.
+              Hey There 👋 DevOps Institute Thane is a premier EdTech company specializing in comprehensive DevOps training programs for both early career and experienced professionals. Our courses are designed in collaboration with industry leaders to meet the ever-evolving demands of the tech world. Through our state-of-the-art infrastructure, we offer a blend of onsite and online learning experiences, ensuring flexibility and convenience for our students. Our mission is to create a skilled workforce equipped with cutting-edge DevOps knowledge and practices, ready to excel in the modern industry landscape.
             </p>
             <div className="flex flex-col sm:flex-row justify-center gap-3 sm:gap-4 px-4">
               <Link 
