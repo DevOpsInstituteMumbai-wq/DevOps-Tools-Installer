@@ -21,7 +21,7 @@ export default function AboutPage() {
             </p>
             <div className="flex flex-col sm:flex-row justify-center gap-3 sm:gap-4 px-4">
               <Link 
-                href="https://github.com/NotHarshhaa" 
+                href="https://github.com/DevOpsInstituteMumbai-wq" 
                 target="_blank"
                 className="inline-flex items-center justify-center gap-2 px-6 py-2.5 rounded-lg border border-border/40 hover:bg-card/50 transition-colors w-full sm:w-auto"
               >
@@ -29,7 +29,7 @@ export default function AboutPage() {
                 <span>GitHub</span>
               </Link>
               <Link 
-                href="https://linkedin.com/in/harshhaa-vardhan-reddy" 
+                href="https://www.linkedin.com/company/devopsinstitutemumbai/" 
                 target="_blank"
                 className="inline-flex items-center justify-center gap-2 px-6 py-2.5 rounded-lg border border-border/40 hover:bg-card/50 transition-colors w-full sm:w-auto"
               >
