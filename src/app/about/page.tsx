@@ -122,7 +122,7 @@ export default function AboutPage() {
                 </Link>
               </div>
             </div>
-          </div> */}
+          </div>
 
           {/* Right Column */}
           <div className="space-y-8">
@@ -186,7 +186,7 @@ export default function AboutPage() {
                   </Link>
                 </div>
               </div>
-            </div> */}
+            </div> 
           </div>
         </div>
 
