@@ -90,7 +90,7 @@ export default function AboutPage() {
               </div>
             </div>
 
-            <div className="p-8 rounded-xl bg-card/50 backdrop-blur-sm border border-border/40">
+    /*        <div className="p-8 rounded-xl bg-card/50 backdrop-blur-sm border border-border/40">
               <h2 className="text-3xl font-bold mb-6 flex items-center gap-3">
                 <span className="bg-primary/10 text-primary p-2 rounded-lg">🔗</span>
                 Find Me Online
@@ -122,7 +122,7 @@ export default function AboutPage() {
                 </Link>
               </div>
             </div>
-          </div>
+          </div> */
 
           {/* Right Column */}
           <div className="space-y-8">
@@ -136,7 +136,7 @@ export default function AboutPage() {
               </p>
             </div>
 
-            <div className="p-8 rounded-xl bg-card/50 backdrop-blur-sm border border-border/40">
+ /*           <div className="p-8 rounded-xl bg-card/50 backdrop-blur-sm border border-border/40">
               <h2 className="text-3xl font-bold mb-6 flex items-center gap-3">
                 <span className="bg-primary/10 text-primary p-2 rounded-lg">📚</span>
                 Learning Resources
@@ -186,7 +186,7 @@ export default function AboutPage() {
                   </Link>
                 </div>
               </div>
-            </div>
+            </div> */
           </div>
         </div>
 
