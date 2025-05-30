@@ -90,31 +90,31 @@ export default function AboutPage() {
               </div>
             </div>
 
-            {/*        <div className="p-8 rounded-xl bg-card/50 backdrop-blur-sm border border-border/40">
+          <div className="p-8 rounded-xl bg-card/50 backdrop-blur-sm border border-border/40">
               <h2 className="text-3xl font-bold mb-6 flex items-center gap-3">
                 <span className="bg-primary/10 text-primary p-2 rounded-lg">🔗</span>
                 Find Me Online
               </h2>
               <div className="grid grid-cols-2 gap-4">
-                <Link href="https://notharshhaa.site/" target="_blank" className="group">
+                <Link href="''" target="_blank" className="group">
                   <div className="p-4 rounded-xl bg-card/50 hover:bg-card transition-colors border border-border/50 hover:border-primary/50">
                     <h3 className="font-semibold group-hover:text-primary transition-colors">Portfolio</h3>
                     <p className="text-sm text-muted-foreground">My personal website</p>
                   </div>
                 </Link>
-                <Link href="https://cv.notharshhaa.site/" target="_blank" className="group">
+                <Link href="''" target="_blank" className="group">
                   <div className="p-4 rounded-xl bg-card/50 hover:bg-card transition-colors border border-border/50 hover:border-primary/50">
                     <h3 className="font-semibold group-hover:text-primary transition-colors">Resume</h3>
                     <p className="text-sm text-muted-foreground">Professional CV</p>
                   </div>
                 </Link>
-                <Link href="https://blog.notharshhaa.site/" target="_blank" className="group">
+                <Link href="''" target="_blank" className="group">
                   <div className="p-4 rounded-xl bg-card/50 hover:bg-card transition-colors border border-border/50 hover:border-primary/50">
                     <h3 className="font-semibold group-hover:text-primary transition-colors">Blog</h3>
                     <p className="text-sm text-muted-foreground">Tech articles</p>
                   </div>
                 </Link>
-                <Link href="https://link.notharshhaa.site/" target="_blank" className="group">
+                <Link href="''" target="_blank" className="group">
                   <div className="p-4 rounded-xl bg-card/50 hover:bg-card transition-colors border border-border/50 hover:border-primary/50">
                     <h3 className="font-semibold group-hover:text-primary transition-colors">Links</h3>
                     <p className="text-sm text-muted-foreground">All my profiles</p>
@@ -136,7 +136,7 @@ export default function AboutPage() {
               </p>
             </div>
 
-            { /*           <div className="p-8 rounded-xl bg-card/50 backdrop-blur-sm border border-border/40">
+        <div className="p-8 rounded-xl bg-card/50 backdrop-blur-sm border border-border/40">
               <h2 className="text-3xl font-bold mb-6 flex items-center gap-3">
                 <span className="bg-primary/10 text-primary p-2 rounded-lg">📚</span>
                 Learning Resources
@@ -146,22 +146,22 @@ export default function AboutPage() {
                   {
                     title: "💻 Real-Time Projects Hub",
                     description: "Work on real-world DevOps/Cloud projects",
-                    link: "https://projects.prodevopsguytech.com"
+                    link: "''"
                   },
                   {
                     title: "📚 Ultimate Docs Portal",
                     description: "900+ curated learning materials",
-                    link: "https://docs.prodevopsguytech.com"
+                    link: "''"
                   },
                   {
                     title: "📦 Repositories Central",
                     description: "Scripts, infra, prep content, and more",
-                    link: "https://repos.prodevopsguytech.com"
+                    link: "''"
                   },
                   {
                     title: "🧭 Jobs Portal",
                     description: "Find your next opportunity in DevOps or Cloud",
-                    link: "https://jobs.prodevopsguytech.com"
+                    link: "''"
                   }
                 ].map((resource, index) => (
                   <Link key={index} href={resource.link} target="_blank">
@@ -172,13 +172,13 @@ export default function AboutPage() {
                   </Link>
                 ))}
                 <div className="grid grid-cols-2 gap-4 pt-2">
-                  <Link href="https://blog.prodevopsguytech.com" target="_blank">
+                  <Link href="''" target="_blank">
                     <div className="group p-4 rounded-xl bg-card/50 hover:bg-card transition-all duration-300 border border-border/50 hover:border-primary/50">
                       <h3 className="font-semibold group-hover:text-primary transition-colors">📰 DevOps Blog</h3>
                       <p className="text-sm text-muted-foreground">Deep dives and guides</p>
                     </div>
                   </Link>
-                  <Link href="https://cloud.prodevopsguytech.com" target="_blank">
+                  <Link href="''" target="_blank">
                     <div className="group p-4 rounded-xl bg-card/50 hover:bg-card transition-all duration-300 border border-border/50 hover:border-primary/50">
                       <h3 className="font-semibold group-hover:text-primary transition-colors">☁️ Cloud Blog</h3>
                       <p className="text-sm text-muted-foreground">Cloud insights</p>
