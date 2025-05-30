@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { FaGithub, FaLinkedin, FaTelegram } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaGlobe } from 'react-icons/fa';
 
 export default function Footer() {
   return (
@@ -61,12 +61,12 @@ export default function Footer() {
                 <FaGithub className="w-6 h-6" />
               </Link>
               <Link
-                href="https://t.me/prodevopsguy"
+                href="https://devopsinstitutemumbai.co.in/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-foreground transition-colors"
               >
-                <FaTelegram className="w-6 h-6" />
+                <FaGlobe className="w-6 h-6" />
               </Link>
               <Link
                 href="https://www.linkedin.com/company/devopsinstitutemumbai/"
