@@ -13,7 +13,7 @@ export default function AboutPage() {
         
         <div className="relative px-4 py-24 text-center">
           <h1 className="text-5xl md:text-7xl font-bold tracking-tighter bg-clip-text text-transparent bg-gradient-to-r from-primary via-primary/80 to-primary/60 mb-6 animate-fade-in">
-            About Me
+            About Us
           </h1>
           <div className="max-w-3xl mx-auto space-y-6">
             <p className="text-xl md:text-2xl text-muted-foreground leading-relaxed">
