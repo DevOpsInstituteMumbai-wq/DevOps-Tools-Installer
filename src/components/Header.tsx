@@ -87,7 +87,7 @@ export function Header() {
           <div className="flex items-center gap-2 sm:gap-4">
             <ThemeToggle />
             <Link
-              href="https://github.com/NotHarshhaa"
+              href="https://github.com/DevOpsInstituteMumbai-wq"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 text-muted-foreground hover:text-foreground transition-colors"
